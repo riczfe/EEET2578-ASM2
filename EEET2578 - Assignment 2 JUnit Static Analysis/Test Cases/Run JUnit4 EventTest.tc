@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Run JUnit4 EventTest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>595d1808-4fd9-45d0-95be-c2758028d2a0</testCaseGuid>
+</TestCaseEntity>

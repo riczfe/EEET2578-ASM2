@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Run JUnit4 BasicDataTest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d14abce6-1ba3-4bf8-a802-fb54af320369</testCaseGuid>
+</TestCaseEntity>
